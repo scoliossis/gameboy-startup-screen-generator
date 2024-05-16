@@ -1,8 +1,7 @@
 # gameboy-logo-gen
 awesome lil gameboy logo gen thingy in java
 
-#### reference video:
-#### https://www.youtube.com/watch?v=6_ZD3FxMcvQ
+### reference video: https://www.youtube.com/watch?v=6_ZD3FxMcvQ
 
 ### its far from perfect + the code is sorta bad
 #### but it still looks sorta good!!
