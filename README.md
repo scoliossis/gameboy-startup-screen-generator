@@ -1,5 +1,5 @@
 # gameboy-logo-gen
-awesome lil gameboy logo gen thingy in java
+awesome lil gameboy logo gen thingy in java!!
 
 ### reference video: https://www.youtube.com/watch?v=6_ZD3FxMcvQ
 
